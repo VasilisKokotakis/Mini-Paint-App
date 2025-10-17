@@ -60,4 +60,4 @@ python paint_app.py
 
 ## License
 
-This project is **MIT licensed** — free to use, modify, and share!
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
