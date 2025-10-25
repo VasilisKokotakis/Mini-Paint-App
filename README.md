@@ -1,6 +1,4 @@
-
-
-# 🖌️ Mini Paint App
+#  Mini Paint App
 
 A small, fun Python GUI app I developed because I wanted my **own handwritten notepad** on Debian and it naturally evolved into a **full-fledged paint app**! 🎨
 
@@ -10,12 +8,12 @@ Now you can draw, doodle, and unleash your creativity directly from Python.
 
 ## Features
 
-* 🖊️ **Draw freely** with your mouse
-* 🎨 **Multiple colors** to choose from (black, red, blue, green, yellow, purple)
-* ✏️ **Adjustable brush size** (small, medium, large)
-* 🗑️ **Clear the canvas** at any time
-* 💾 **Save your artwork** as a PNG image
-* 🖤 **Smooth continuous lines**, even when moving the mouse fast
+*  **Draw freely** with your mouse
+*  **Multiple colors** to choose from (black, red, blue, green, yellow, purple)
+*  **Adjustable brush size** (small, medium, large)
+*  **Clear the canvas** at any time
+*  **Save your artwork** as a PNG image
+*  **Smooth continuous lines**, even when moving the mouse fast
 
 ---
 
@@ -52,9 +50,9 @@ python paint_app.py
 
 ## Possible Future Improvements
 
-* 🖌️ **Color picker** to choose any custom color
-* ↩️ **Undo last stroke** feature
-* 📐 **Shapes and text tools** for more creative control
+*  **Color picker** to choose any custom color
+*  **Undo last stroke** feature
+*  **Shapes and text tools** for more creative control
 
 ---
 
