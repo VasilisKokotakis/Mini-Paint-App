@@ -1,6 +1,6 @@
 #  Mini Paint App
 
-A small, fun Python GUI app I developed because I wanted my **own handwritten notepad** on Debian and it naturally evolved into a **full-fledged paint app**! 🎨
+A small, fun Python GUI app I developed because I wanted my **own handwritten notepad** on Debian and it naturally evolved into a **full-fledged paint app**! 
 
 Now you can draw, doodle, and unleash your creativity directly from Python.
 
